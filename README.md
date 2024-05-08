@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Phanendra Lanki</h1>
+<h1 align="center">Hi 👋, I'm Ganesh Phanendra Lanki</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
 
 - 🔭 I’m currently working on **Ticketing App**
