@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my works are available at [https://www.linkedin.com/in/phanendralanki-developer1/](https://www.linkedin.com/in/phanendralanki-developer1/)
 
-- 📫 How to reach me **phanendralanki@gmail.com**
+- 📫 How to reach me **ganeshphanendralanki@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
