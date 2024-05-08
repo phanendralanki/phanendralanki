@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phanendra Lanki</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
 
-- 🔭 I’m currently working on **Flight booking system**
+- 🔭 I’m currently working on **Ticketing App**
 
 - 👯 I’m looking to collaborate on [scet winners](https://www.scetwinners.com/?i=1)
 
